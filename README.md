@@ -21,6 +21,6 @@
 
 ### Data
 
-The data is an e-commerce dataset available at kaggle. It is a transactional data set which contains all the transactions occurring between 01/12/2010 and 09/12/2011 for a UK-based and registered non-store online retail.
-
-link: https://www.kaggle.com/carrie1/ecommerce-data
+The data is an e-commerce dataset. It is a transactional data set which contains all the transactions occurring between 01/12/2010 and 09/12/2011 for a UK-based Ecommerce store. 
+- sales_retail.xlsx (it was too large as a csv so i saved it as an excel file.)
+    -to read the excel file (pd.read_excel(sales_retail.xlsx)
