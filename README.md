@@ -16,3 +16,11 @@
 - How many different RFM segments do we have for users? What are the unique high-level characteristics of each segment? (By answering these questions, we can determine business levers that can be used to maximize revenue for each segment)
 
 - What is the percentage of each RFM segment? (Answering this question helps one to size opportunities)
+
+
+
+### Data
+
+The data is an e-commerce dataset available at kaggle. It is a transactional data set which contains all the transactions occurring between 01/12/2010 and 09/12/2011 for a UK-based and registered non-store online retail.
+
+link: https://www.kaggle.com/carrie1/ecommerce-data
