@@ -18,6 +18,8 @@
 - What is the percentage of each RFM segment? (Answering this question helps one to size opportunities)
 
 
+#### Actionable Steps on the clusters
+
 
 ### Data
 
